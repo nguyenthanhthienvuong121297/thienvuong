@@ -1,4 +1,7 @@
 console.log("hello");
+function xoaNguoiDung(){
+    console.log("vuong xoa nguoi dung")
+}
 
 function themNguoiDung(){
     console.log("vuong them nguoi dung");
